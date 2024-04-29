@@ -20,3 +20,5 @@
 | chatGPT | Conteúdo | Quais são os direitos dos usuários perante a LGPD ? |
 | chatGPT | Conteúdo | Quais as obrigações das Empresas perante a LGPD ? |
 | Copilot | Imagem | Crie uma imagem que passa a mensagem de segurança dos dados pessoais baseado na LGPD. Faça um pessoa fornecendo os dados pessoais e um computador retribuindo. |
+
+### [Clique aqui](https://github.com/gustavogsb/prompt_ebook_chatGPT/blob/main/ebook_LGPD.pdf) para ler o e-book
